@@ -9,15 +9,15 @@
     "medical",
     "imaging"
   ],
-  "author": "Chris Hafey",
-  "homepage": "https://github.com/cornerstonejs/dicomParser",
+  "author": "Marco Grassi",
+  "homepage": "https://github.com/mako87/dicomParser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cornerstonejs/dicomParser/issues"
+    "url": "https://github.com/mako87/dicomParser/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornerstonejs/dicomParser.git"
+    "url": "https://github.com/mako87/dicomParser.git"
   },
   "scripts": {
     "build": "npm run test && npm run version && npm run webpack && npm run copy:meteor && npm run doc:generate",
